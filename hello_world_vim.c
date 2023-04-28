@@ -7,6 +7,8 @@ int main()
   return 0;
 }
 
+// Reource: https://www.w3schools.com/c/c_newline.php
+
 /*
 #include <stdio.h>
 
