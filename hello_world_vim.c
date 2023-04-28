@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main() {
-  printf("Hello, world!\n");
-  printf("I am learning C.");
+int main()
+{
+  printf("Hello World!\nI am learning C.\nAnd it is awesome!");
   return 0;
 }
 
@@ -24,4 +24,3 @@ So, in summary, this program includes the stdio.h library, defines the main() fu
 
 
 */
-
